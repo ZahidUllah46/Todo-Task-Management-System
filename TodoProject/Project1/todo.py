@@ -26,7 +26,7 @@ def add_task():
 
     tasks.append(task)
 
-    print("\n✅ Task Added Successfully!")
+    print("\n Task Added Successfully!")
 
 
 def view_tasks():
@@ -53,7 +53,7 @@ def delete_task():
         if number <= len(tasks):
             removed = tasks.pop(number - 1)
 
-            print(f"\n❌ Task Removed: {removed}")
+            print(f"\n Task Removed: {removed}")
 
         else:
             print("Invalid task number!")
