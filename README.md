@@ -1,50 +1,41 @@
-# To-Do Task Management System
+# ✅ To-Do Task Management System
 
-## Developed By
-Zahid Ullah
+## 📌 Project Overview
 
----
+A Python-based **To-Do Task Management System** developed to manage daily tasks efficiently.
 
-## Project Description
-
-The To-Do Task Management System is a Python-based application that helps users manage their daily tasks easily.
-
-Users can add new tasks, view existing tasks, delete completed tasks, and exit the application through a simple menu-driven interface.
+This application allows users to create, view, search, complete, and delete tasks with permanent data storage using JSON files.
 
 ---
 
-## Features
+## 👨‍💻 Developer
 
-✅ Add New Task  
-✅ View All Tasks  
-✅ Delete Task  
-✅ User-Friendly Menu System  
-✅ Task Numbering System  
-✅ Simple Console-Based Interface  
+**Developed by: Zahid**
 
 ---
 
-## Technologies Used
+## 🚀 Features
+
+✅ Add new tasks  
+✅ View all tasks  
+✅ Delete tasks  
+✅ Mark tasks as completed  
+✅ Search tasks easily  
+✅ Task ID management  
+✅ Duplicate task checking  
+✅ Date and time tracking  
+✅ Error handling  
+✅ Data saved permanently using JSON file  
+
+---
+
+## 🛠 Technologies Used
 
 - Python
-- PyCharm IDE
+- JSON File Handling
+- Object-Oriented Programming Concepts
+- DateTime Module
 
 ---
 
-## Concepts Used
-
-- Lists
-- Functions
-- Loops
-- Conditional Statements
-- User Input Handling
-
----
-
-## How to Run the Project
-
-1. Install Python on your system.
-
-2. Open the project in PyCharm.
-
-3. Run the file:
+## 📂 Project Structure
