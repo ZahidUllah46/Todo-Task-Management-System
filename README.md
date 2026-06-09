@@ -1,6 +1,6 @@
-# ✅ To-Do Task Management System
+# To-Do Task Management System
 
-## 📌 Project Overview
+##  Project Overview
 
 A Python-based **To-Do Task Management System** developed to manage daily tasks efficiently.
 
@@ -8,13 +8,12 @@ This application allows users to create, view, search, complete, and delete task
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 
 **Developed by: Zahid**
 
----
 
-## 🚀 Features
+##  Features
 
 ✅ Add new tasks  
 ✅ View all tasks  
@@ -29,7 +28,7 @@ This application allows users to create, view, search, complete, and delete task
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - JSON File Handling
