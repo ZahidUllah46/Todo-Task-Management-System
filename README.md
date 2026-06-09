@@ -37,4 +37,4 @@ This application allows users to create, view, search, complete, and delete task
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
